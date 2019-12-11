@@ -26,6 +26,7 @@ Public Class FrmReportes
         If (FechaInicial.Enabled And FechaFin.Enabled) Then
             FechaInicial.Enabled = False
             FechaFin.Enabled = False
+            source1.RemoveFilter()
         Else
             FechaInicial.Enabled = True
             FechaFin.Enabled = True
@@ -37,6 +38,7 @@ Public Class FrmReportes
     Private Sub CheckBoxCtaBancaria_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBoxCtaBancaria.CheckedChanged
         If (ComboBoxCtaBancaria.Enabled) Then
             ComboBoxCtaBancaria.Enabled = False
+            source1.RemoveFilter()
         Else
             ComboBoxCtaBancaria.Enabled = True
             ComboBoxCtaBancaria.Items.Clear()

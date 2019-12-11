@@ -14,3 +14,19 @@ C:\Users\lenovo\Documents\PROYECTO VOZ DE VIEJA\BancoAPP\Usuario\Usuario\obj\Deb
 C:\Users\lenovo\Documents\PROYECTO VOZ DE VIEJA\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.exe
 C:\Users\lenovo\Documents\PROYECTO VOZ DE VIEJA\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.xml
 C:\Users\lenovo\Documents\PROYECTO VOZ DE VIEJA\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.pdb
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\bin\Debug\BancoAPP.exe.config
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\bin\Debug\BancoAPP.exe
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\bin\Debug\BancoAPP.pdb
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\bin\Debug\BancoAPP.xml
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.vbprojAssemblyReference.cache
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.FrmReportes.resources
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.FrmMovimientos.resources
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.FrmPrincipal.resources
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.FrmLogin.resources
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.Resources.resources
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.FrmClientes.resources
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.vbproj.GenerateResource.cache
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.vbproj.CoreCompileInputs.cache
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.exe
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.xml
+C:\Users\GREGORY\Source\Repos\BancoAPP\Usuario\Usuario\obj\Debug\BancoAPP.pdb

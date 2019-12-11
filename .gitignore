@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Usuario/.vs/BancoAPP/v15/Server/sqlite3/storage.ide-wal
+/Usuario/.vs/BancoAPP/v15/Server/sqlite3/storage.ide-shm
+/Usuario/.vs/BancoAPP/v15/Server/sqlite3/storage.ide
+/Usuario/.vs/BancoAPP/v15/Server/sqlite3/db.lock
