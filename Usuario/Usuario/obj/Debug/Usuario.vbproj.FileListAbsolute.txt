@@ -1,0 +1,56 @@
+C:\Users\Aldair Giron\Documents\Aldair Giron\2019\2019-II\Programacion Visual\Usuario\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\Aldair Giron\Documents\Aldair Giron\2019\2019-II\Programacion Visual\Usuario\Usuario\bin\Debug\Usuario.exe
+C:\Users\Aldair Giron\Documents\Aldair Giron\2019\2019-II\Programacion Visual\Usuario\Usuario\bin\Debug\Usuario.pdb
+C:\Users\Aldair Giron\Documents\Aldair Giron\2019\2019-II\Programacion Visual\Usuario\Usuario\bin\Debug\Usuario.xml
+C:\Users\Aldair Giron\Documents\Aldair Giron\2019\2019-II\Programacion Visual\Usuario\Usuario\obj\Debug\Usuario.Principal.resources
+C:\Users\Aldair Giron\Documents\Aldair Giron\2019\2019-II\Programacion Visual\Usuario\Usuario\obj\Debug\Usuario.Resources.resources
+C:\Users\Aldair Giron\Documents\Aldair Giron\2019\2019-II\Programacion Visual\Usuario\Usuario\obj\Debug\Usuario.Usuarios.resources
+C:\Users\Aldair Giron\Documents\Aldair Giron\2019\2019-II\Programacion Visual\Usuario\Usuario\obj\Debug\Usuario.vbproj.GenerateResource.Cache
+C:\Users\Aldair Giron\Documents\Aldair Giron\2019\2019-II\Programacion Visual\Usuario\Usuario\obj\Debug\Usuario.exe
+C:\Users\Aldair Giron\Documents\Aldair Giron\2019\2019-II\Programacion Visual\Usuario\Usuario\obj\Debug\Usuario.xml
+C:\Users\Aldair Giron\Documents\Aldair Giron\2019\2019-II\Programacion Visual\Usuario\Usuario\obj\Debug\Usuario.pdb
+C:\Users\Aldair Giron\Documents\Aldair Giron\2019\2019-II\Programacion Visual\Usuario\Usuario\obj\Debug\Usuario.vbprojResolveAssemblyReference.cache
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\obj\Debug\Usuario.exe
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\obj\Debug\Usuario.xml
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\obj\Debug\Usuario.pdb
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\bin\Debug\Usuario.exe
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\bin\Debug\Usuario.pdb
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\bin\Debug\Usuario.xml
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\bin\Debug\System.Net.Http.dll
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\bin\Debug\System.Net.Http.xml
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\obj\Debug\Usuario.vbprojResolveAssemblyReference.cache
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\obj\Debug\Usuario.Principal.resources
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\obj\Debug\Usuario.Resources.resources
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\obj\Debug\Usuario.Usuarios.resources
+C:\Users\Adam Duque\Desktop\Usuario\Usuario\obj\Debug\Usuario.vbproj.GenerateResource.Cache
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\bin\Debug\Usuario.exe.config
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\bin\Debug\Usuario.exe
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\bin\Debug\Usuario.pdb
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\bin\Debug\Usuario.xml
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\obj\Debug\Usuario.vbprojAssemblyReference.cache
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\obj\Debug\Usuario.Principal.resources
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\obj\Debug\Usuario.Resources.resources
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\obj\Debug\Usuario.vbproj.GenerateResource.cache
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\obj\Debug\Usuario.exe
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\obj\Debug\Usuario.xml
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\obj\Debug\Usuario.pdb
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\obj\Debug\Usuario.FrmMovimientos.resources
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\obj\Debug\Usuario.FrmPrincipal1.resources
+D:\archivos UNP\Visual\Trabajo\Usuario\Usuario\obj\Debug\Usuario.FrmClientes.resources
+C:\Users\GREGORY\Desktop\Usuario\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\GREGORY\Desktop\Usuario\Usuario\bin\Debug\Usuario.exe
+C:\Users\GREGORY\Desktop\Usuario\Usuario\bin\Debug\Usuario.pdb
+C:\Users\GREGORY\Desktop\Usuario\Usuario\bin\Debug\Usuario.xml
+C:\Users\GREGORY\Desktop\Usuario\Usuario\obj\Debug\Usuario.vbprojAssemblyReference.cache
+C:\Users\GREGORY\Desktop\Usuario\Usuario\obj\Debug\Usuario.FrmMovimientos.resources
+C:\Users\GREGORY\Desktop\Usuario\Usuario\obj\Debug\Usuario.FrmPrincipal1.resources
+C:\Users\GREGORY\Desktop\Usuario\Usuario\obj\Debug\Usuario.Principal.resources
+C:\Users\GREGORY\Desktop\Usuario\Usuario\obj\Debug\Usuario.Resources.resources
+C:\Users\GREGORY\Desktop\Usuario\Usuario\obj\Debug\Usuario.FrmClientes.resources
+C:\Users\GREGORY\Desktop\Usuario\Usuario\obj\Debug\Usuario.vbproj.GenerateResource.cache
+C:\Users\GREGORY\Desktop\Usuario\Usuario\obj\Debug\Usuario.vbproj.CoreCompileInputs.cache
+C:\Users\GREGORY\Desktop\Usuario\Usuario\obj\Debug\Usuario.exe
+C:\Users\GREGORY\Desktop\Usuario\Usuario\obj\Debug\Usuario.xml
+C:\Users\GREGORY\Desktop\Usuario\Usuario\obj\Debug\Usuario.pdb
+C:\Users\GREGORY\Desktop\Usuario\Usuario\obj\Debug\Usuario.Reportes.resources
